@@ -16,3 +16,13 @@ After preprocessing:
 
 Rows: 569 and 
 Columns: 31
+
+**Target Variable**
+
+The target column is: diagnosis
+
+
+This column represents whether the tumor is:
+
+M → Malignant (Cancerous)
+B → Benign (Non-cancerous)
