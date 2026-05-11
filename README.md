@@ -9,4 +9,7 @@ Dataset Shape
 Rows: 569
 Columns: 33 (before preprocessing)
 
+After preprocessing:
 
+Rows: 569
+Columns: 31
