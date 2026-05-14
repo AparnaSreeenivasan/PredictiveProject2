@@ -39,3 +39,9 @@ Distribution of Target Variable
 Benign cases: 357
 
 Malignant cases: 212
+
+
+
+# Deployment app
+https://predictiveproject2-cw9kes4f3hmzgky3grkhdg.streamlit.app/
+
