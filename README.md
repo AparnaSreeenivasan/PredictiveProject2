@@ -44,4 +44,5 @@ Malignant cases: 212
 
 # Deployment app
 https://predictiveproject2-cw9kes4f3hmzgky3grkhdg.streamlit.app/
+<img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/f3339bcc-545b-45b5-a316-2ba4f8d08607" />
 
