@@ -61,16 +61,16 @@ An ensemble model that combines multiple decision trees.
 **Best Model is SVM**
 
 # Visualization
-**Feature Selection**
+# Feature Selection
 <img width="1297" height="602" alt="image" src="https://github.com/user-attachments/assets/b72859f0-5f63-4cc0-b956-776a9e725bc5" />
 
-**ROC Curve**
+# ROC Curve
 <img width="810" height="601" alt="image" src="https://github.com/user-attachments/assets/1ae7e8d8-f1cc-4802-a524-0647f3a576e6" />
 
-**Model Accuracy**
+# Model Accuracy
 <img width="797" height="520" alt="image" src="https://github.com/user-attachments/assets/1f44967c-4b40-4646-934c-3c9a29458e72" />
 
-**Cross Validation Accuracy**
+# Cross Validation Accuracy
 <img width="790" height="501" alt="image" src="https://github.com/user-attachments/assets/f15c14bd-c210-44c4-9dc6-40a8c8b7b2ea" />
 
 
