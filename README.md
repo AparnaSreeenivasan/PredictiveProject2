@@ -31,9 +31,9 @@ The target column is: diagnosis
 
 This column represents whether the tumor is:
 
-M → Malignant (Cancerous)
+- M → Malignant (Cancerous)
 
-B → Benign (Non-cancerous)
+- B → Benign (Non-cancerous)
 
 After label encoding:
 
