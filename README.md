@@ -5,7 +5,7 @@ Breast Cancer Tumor Classification Using Clinical Features
 | Name | Register No. |
 | ------- | -------- | 
 | Akshaya K P | |
-| Aparna    | |
+| Aparna Sreenivasan | 253204 |
 | Sravana Nambiar | 253212 |
 
 **Dataset Information**
