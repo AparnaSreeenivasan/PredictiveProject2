@@ -61,13 +61,13 @@ Malignant cases: 212
 ![Boxplot](Visualizations/Boxplot.png)
 
 # Pairplots for Selected Features
-
+![Pairplot](Visualizations/Pairplot.png)
 
 # Outlier Detection
-
+![Outlier Detection](Visualizations/Outlierdetection.png)
 
 # Model-based Feature Importance Analysis
-
+![Feature Importance Analysis](Visualizations/Featureimportanceanalysis.png)
 
 
 # Model Training
