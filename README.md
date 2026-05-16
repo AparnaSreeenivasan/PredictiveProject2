@@ -48,7 +48,7 @@ Benign cases: 357
 Malignant cases: 212
 
 # Exploratory Data Analysis
-Histograms for all features
+![Histograms for all features](Visualizations/Histograms.png)
 
 Count plot for analysis
 
