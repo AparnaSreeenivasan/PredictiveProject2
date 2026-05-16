@@ -2,9 +2,11 @@
 Breast Cancer Tumor Classification Using Clinical Features
 
 # Team Members
-|Akshaya K P||
-|Aparna    ||
-|Sravana Nambiar|253212|
+| Name | Register No. |
+| ------- | -------- | 
+| Akshaya K P | |
+| Aparna    | |
+| Sravana Nambiar | 253212 |
 
 **Dataset Information**
 
