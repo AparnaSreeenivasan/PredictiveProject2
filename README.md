@@ -45,9 +45,10 @@ Distribution of Target Variable
 
 - Benign cases: 357
 
-Malignant cases: 212
+- Malignant cases: 212
 
 # Exploratory Data Analysis
+
 # Histogram of all features
 ![Histograms for all features](Visualizations/Histograms.png)
 
