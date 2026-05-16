@@ -41,7 +41,11 @@ After label encoding:
 
 - Malignant (M) = 1
 
+Distribution of Target Variable
 
+- Benign cases: 357
+
+Malignant cases: 212
 
 # Exploratory Data Analysis
 # Histogram of all features
