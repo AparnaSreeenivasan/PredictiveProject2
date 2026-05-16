@@ -129,7 +129,7 @@ Ensure the following files are present in the GitHub repository
 ```bash
 app.py
 ```
-``bash
+```bash
 requirements.txt
 ```
 ```bash
