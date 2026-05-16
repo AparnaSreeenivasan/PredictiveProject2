@@ -47,6 +47,21 @@ Benign cases: 357
 
 Malignant cases: 212
 
+# Exploratory Data Analysis
+Histograms for all features
+
+Count plot for analysis
+
+Correlation Heatmap
+
+Boxplots for Key Features by Diagnosis
+
+Pairplots for Selected Features
+
+Outlier Detection
+
+Model-based Feature Importance Analysis
+
 
 # Model Training
 Models Used
