@@ -133,15 +133,15 @@ selector.pkl
 scaler.pkl
 
 Local Deployment Steps
-Step 1: Clone the Repository
+Step 1- Clone the Repository
 git clone <repository-link>
-Step 2: Navigate to Project Folder
+Step 2- Navigate to Project Folder
 cd Breast-Cancer-App
-Step 3: Install Required Libraries
+Step 3- Install Required Libraries
 pip install -r requirements.txt
-Step 4: Run the Streamlit Application
+Step 4- Run the Streamlit Application
 streamlit run app.py
-Step 5: Open the Application
+Step 5- Open the Application
 The application will open in the browser automatically.
 
 # Deployment app
