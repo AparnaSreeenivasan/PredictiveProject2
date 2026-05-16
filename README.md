@@ -1,6 +1,11 @@
 # PredictiveProject2
 Breast Cancer Tumor Classification Using Clinical Features
 
+# Team Members
+|Akshaya K P||
+|Aparna    ||
+|Sravana Nambiar|253212|
+
 **Dataset Information**
 
 The dataset used is the Breast Cancer Wisconsin Diagnostic Dataset.
