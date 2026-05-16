@@ -141,12 +141,18 @@ git clone <repository-link>
 Step 2- Navigate to Project Folder
 cd Breast-Cancer-App
 ```
+```bash
 Step 3- Install Required Libraries
 pip install -r requirements.txt
+```
+```bash
 Step 4- Run the Streamlit Application
 streamlit run app.py
+```
+```bash
 Step 5- Open the Application
 The application will open in the browser automatically.
+```
 
 # Deployment app
 https://predictiveproject2-cw9kes4f3hmzgky3grkhdg.streamlit.app/
