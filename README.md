@@ -4,7 +4,7 @@ Breast Cancer Tumor Classification Using Clinical Features
 # Team Members
 | Name | Register No. |
 | ------- | -------- | 
-| Akshaya K P | |
+| Akshaya K P | 253214 |
 | Aparna Sreenivasan | 253204 |
 | Sravana Nambiar | 253212 |
 
