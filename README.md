@@ -126,11 +126,21 @@ Random Forest Classifier
 Files Required for Deployment
 
 Ensure the following files are present in the GitHub repository
+```bash
 app.py
+```
+``bash
 requirements.txt
+```
+```bash
 breast_cancer_model.pkl
+```
+```bash
 selector.pkl
+```
+```bash
 scaler.pkl
+```
 
 # Local Deployment Steps
 ```bash
