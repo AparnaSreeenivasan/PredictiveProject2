@@ -24,7 +24,7 @@ After preprocessing:
 - Rows: 569  
 - Columns: 31
 
-**Target Variable**
+## Target Variable
 
 The target column is: diagnosis
 
