@@ -1,5 +1,5 @@
-# PredictiveProject2
-Breast Cancer Tumor Classification Using Clinical Features
+# Breast Cancer Tumor Classification Using Clinical Features
+This project uses Machine Learning techniques to classify breast tumors as Benign or Malignant using the Wisconsin Breast Cancer Dataset. The system applies data preprocessing, feature selection, and classification models to provide accurate predictions through a Streamlit web application.
 
 # Team Members
 | Name | Register No. |
