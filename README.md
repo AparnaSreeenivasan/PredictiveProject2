@@ -21,8 +21,8 @@ before preprocessing
 
 After preprocessing:
 
-Rows: 569 and 
-Columns: 31
+- Rows: 569  
+- Columns: 31
 
 **Target Variable**
 
