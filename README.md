@@ -122,8 +122,38 @@ Random Forest Classifier
 12.Matplotlib
 13.Seaborn
 
+# Streamlit Deployment Instructions
+Files Required for Deployment
+
+Ensure the following files are present in the GitHub repository
+app.py
+requirements.txt
+breast_cancer_model.pkl
+selector.pkl
+scaler.pkl
+
+Local Deployment Steps
+Step 1: Clone the Repository
+git clone <repository-link>
+Step 2: Navigate to Project Folder
+cd Breast-Cancer-App
+Step 3: Install Required Libraries
+pip install -r requirements.txt
+Step 4: Run the Streamlit Application
+streamlit run app.py
+Step 5: Open the Application
+The application will open in the browser automatically.
 
 # Deployment app
 https://predictiveproject2-cw9kes4f3hmzgky3grkhdg.streamlit.app/
 <img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/f3339bcc-545b-45b5-a316-2ba4f8d08607" />
+
+# Conclusion 
+This project developed a Machine Learning-based Breast Cancer Tumor Classification System using the Wisconsin Breast Cancer Dataset. Different models including Logistic Regression, SVM, and Random Forest were implemented and evaluated using metrics such as Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
+
+Among all models, Logistic Regression achieved the best overall performance. Data preprocessing, feature scaling, SMOTE, and feature selection improved the model’s efficiency and accuracy. The final model was successfully deployed using Streamlit, allowing users to upload data and obtain real-time predictions with visualizations.
+
+# References
+Wisconsin Breast Cancer Dataset (From Kaggle)
+https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
