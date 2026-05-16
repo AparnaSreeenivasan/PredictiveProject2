@@ -12,12 +12,12 @@ Breast Cancer Tumor Classification Using Clinical Features
 
 The dataset used is the Breast Cancer Wisconsin Diagnostic Dataset.
 
-Dataset Shape
+## Dataset Shape
 
 before preprocessing
 
-Rows: 569 and 
-Columns: 33 
+- Rows: 569  
+- Columns: 33 
 
 After preprocessing:
 
