@@ -35,11 +35,7 @@ This column represents whether the tumor is:
 
 - B → Benign (Non-cancerous)
 
-After label encoding:
 
-Benign (B) = 0
-
-Malignant (M) = 1
 
 Distribution of Target Variable
 
